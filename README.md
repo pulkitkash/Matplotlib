@@ -1,4 +1,4 @@
-📊 Matplotlib Data Visualization Practice
+# 📊 Matplotlib Data Visualization Practice
 
 This repository contains my hands-on practice and learning journey with Matplotlib for data visualization in Python.
 I explored different types of plots and understood how to visually represent data effectively.
